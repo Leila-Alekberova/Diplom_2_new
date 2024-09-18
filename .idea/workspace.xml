@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2b9e3f-e4a3-47d9-923f-e3b9e76c97c6" name="Changes" comment="" />
+    <list default="true" id="5b2b9e3f-e4a3-47d9-923f-e3b9e76c97c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_change_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_create_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_get_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -18,10 +48,116 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_change_user.TestChangeUser.test_change_auth_user_name.executor": "Run",
+    "Python tests.Python tests for test_change_user.TestChangeUser.test_change_pass_with_auth.executor": "Run",
+    "Python tests.Python tests for test_change_user.TestChangeUser.test_change_user_without_auth.executor": "Run",
+    "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_auth_user.executor": "Run",
+    "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_no_auth_user.executor": "Run",
+    "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_wiht_incorrect_hash.executor": "Run",
+    "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_without_ingredient.executor": "Run",
+    "Python tests.Python tests for test_create_user.TestCreateUser.test_create_user.executor": "Run",
+    "Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user.executor": "Run",
+    "Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user.executor": "Run",
+    "Python tests.Python tests for test_login_user.TestLoginUser.test_login_user.executor": "Run",
+    "Python tests.Python tests for test_login_user.TestLoginUser.test_login_user_incorrect.executor": "Run",
+    "Python tests.Python tests in test_change_user.py.executor": "Run",
+    "Python tests.Python tests in test_create_order.py.executor": "Run",
+    "Python tests.Python tests in test_create_user.py.executor": "Run",
+    "Python tests.Python tests in test_get_order.py.executor": "Run",
+    "Python tests.Python tests in test_login_user.py.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop2",
+    "ignore_missing_gitignore": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user">
+    <configuration name="Python tests for test_get_order.TestGetOrder.test_get_order_auth_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2_new" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_order.TestGetOrder.test_get_order_auth_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2_new" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_order.TestGetOrder.test_get_order_without_auth_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login_user.TestLoginUser.test_login_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2_new" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_user.TestLoginUser.test_login_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login_user.TestLoginUser.test_login_user_incorrect" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2_new" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_user.TestLoginUser.test_login_user_incorrect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_change_user.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2_new" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_change_user.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user" />
+        <item itemvalue="Python tests.Python tests in test_change_user.py" />
+        <item itemvalue="Python tests.Python tests for test_login_user.TestLoginUser.test_login_user_incorrect" />
+        <item itemvalue="Python tests.Python tests for test_login_user.TestLoginUser.test_login_user" />
+        <item itemvalue="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
