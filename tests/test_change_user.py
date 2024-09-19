@@ -1,8 +1,8 @@
 import allure
 import pytest
 import requests
-from data.data import Urls, Handlers
-from data.helpers import UserData, Message
+from data.data import Urls, Handlers, Users, Message
+from data.helpers import UserData
 from conftest import create_and_delete_user
 
 class TestChangeUser:

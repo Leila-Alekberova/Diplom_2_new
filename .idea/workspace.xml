@@ -4,9 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2b9e3f-e4a3-47d9-923f-e3b9e76c97c6" name="Changes" comment="">
+    <list default="true" id="5b2b9e3f-e4a3-47d9-923f-e3b9e76c97c6" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/00bea22b-1fbc-4f73-9429-da133ba1c64f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/0659f232-bf02-4b62-a819-0eb8ec2a1b7f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/0a3e5979-ca68-45d7-9667-b8f26486cd8d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/15148c30-2c7e-4cac-851c-6fe824ea3f7a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/25c5d2dd-d192-4c30-9f3f-218af08376b9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/2b832659-a762-4a05-9c0b-282ad14d0b14-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/2de19595-f0b6-49b5-a4c7-ad6d2b5341ee-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/2fb76e69-20a3-463e-84d3-e56972ed3a0a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/3fc4d31f-7c57-4be5-9835-76ce03e9134d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/40338789-1feb-4954-b365-1c9e6edf3270-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/45ee7e96-3e52-4976-b56a-8b5fa8567e9d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/508c1be7-b8e9-4745-920f-7b2512a76241-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/562fe44a-9b89-410d-8602-cf8fe9580961-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/59456e22-7f51-419f-8c87-a821dd7b4d8b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/6cb97f4b-dd17-4d72-abce-918f04bfa8d4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/6f714d4b-8a74-4ae6-bff6-2e8e94acbe60-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/7b30b0a5-e426-4d7b-8a3c-7ee137a419ba-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/8a074cef-4055-4362-b548-d4cbf9500350-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/92ebf257-5348-4e1b-9f3d-53f947214e24-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/94a25755-7b35-4b13-b69d-f96c8142d159-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/961e1cae-36fc-480a-9c08-74e6f8d8e769-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/a8906f73-ae53-4ee2-8d6c-55013e4058d1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/add9fe43-17ea-4036-8d4a-09c5a0aba654-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/c7c56974-1c3a-4f6b-af8f-fe7483dd3877-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/d55585fe-7b21-4ffb-94ad-fa2df3ea1899-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/d8bfcd03-6d56-4ef3-82fc-8055d5de1e89-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/de95b5ac-c49d-4461-ab16-88e5581225ad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/f8a79cb1-dce9-4999-bb51-b2cb1fb797d6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/feeef5a9-a09b-4ed5-aa23-6c5b014b218b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_change_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_change_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_create_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_create_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_create_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_get_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_get_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +61,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mF28RxbbicgoEiMD5W9TvWh8cS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +79,9 @@
     "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_no_auth_user.executor": "Run",
     "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_wiht_incorrect_hash.executor": "Run",
     "Python tests.Python tests for test_create_order.TestCreateOrder.test_create_order_without_ingredient.executor": "Run",
+    "Python tests.Python tests for test_create_user.TestCreateUser.test_create_double_user.executor": "Run",
     "Python tests.Python tests for test_create_user.TestCreateUser.test_create_user.executor": "Run",
+    "Python tests.Python tests for test_create_user.TestCreateUser.test_create_without_data.executor": "Run",
     "Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user.executor": "Run",
     "Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user.executor": "Run",
     "Python tests.Python tests for test_login_user.TestLoginUser.test_login_user.executor": "Run",
@@ -61,8 +98,8 @@
     "ignore_missing_gitignore": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user">
-    <configuration name="Python tests for test_get_order.TestGetOrder.test_get_order_auth_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_create_user.TestCreateUser.test_create_without_data">
+    <configuration name="Python tests for test_create_user.TestCreateUser.test_create_double_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Diplom_2_new" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +110,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_get_order.TestGetOrder.test_get_order_auth_user&quot;" />
+      <option name="_new_target" value="&quot;test_create_user.TestCreateUser.test_create_double_user&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_create_user.TestCreateUser.test_create_without_data" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Diplom_2_new" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +125,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_get_order.TestGetOrder.test_get_order_without_auth_user&quot;" />
+      <option name="_new_target" value="&quot;test_create_user.TestCreateUser.test_create_without_data&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_user.TestLoginUser.test_login_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_create_order.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Diplom_2_new" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +140,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_user.TestLoginUser.test_login_user&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_create_order.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_user.TestLoginUser.test_login_user_incorrect" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_create_user.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Diplom_2_new" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +155,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_user.TestLoginUser.test_login_user_incorrect&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_create_user.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_change_user.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_get_order.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Diplom_2_new" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,17 +170,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_change_user.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_get_order.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_auth_user" />
-        <item itemvalue="Python tests.Python tests in test_change_user.py" />
-        <item itemvalue="Python tests.Python tests for test_login_user.TestLoginUser.test_login_user_incorrect" />
-        <item itemvalue="Python tests.Python tests for test_login_user.TestLoginUser.test_login_user" />
-        <item itemvalue="Python tests.Python tests for test_get_order.TestGetOrder.test_get_order_without_auth_user" />
+        <item itemvalue="Python tests.Python tests for test_create_user.TestCreateUser.test_create_without_data" />
+        <item itemvalue="Python tests.Python tests for test_create_user.TestCreateUser.test_create_double_user" />
+        <item itemvalue="Python tests.Python tests in test_get_order.py" />
+        <item itemvalue="Python tests.Python tests in test_create_user.py" />
+        <item itemvalue="Python tests.Python tests in test_create_order.py" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +200,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726657843669</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1726674246574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726674246574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
