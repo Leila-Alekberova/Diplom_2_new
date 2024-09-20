@@ -3,12 +3,15 @@ import pytest
 import requests
 from data.data import Urls, Handlers, Users, Message
 from data.helpers import UserData
+import sys
+sys.path.insert(0,"C:/Users/alekberovalf/Desktop/Diplom/Diplom_2_new/")
 
 
 class TestCreateUser:
     @allure.title("Создание нового пользователя")
     def test_create_user(self):
         response = requests.post(f'{Urls.MAIN_URL}{Handlers.CREATE_USER}', data=UserData.create_fake_user())
+        token = response.json()['accessToken']
         assert response.status_code == 200
         assert response.json()['success'] is True
 

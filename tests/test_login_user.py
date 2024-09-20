@@ -3,6 +3,8 @@ import pytest
 import requests
 from data.data import Urls, Handlers, Ingredient, Message, Users
 from data.helpers import UserData
+import sys
+sys.path.insert(0,"C:/Users/alekberovalf/Desktop/Diplom/Diplom_2_new/")
 
 class TestLoginUser:
 
